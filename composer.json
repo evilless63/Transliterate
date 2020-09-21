@@ -1,7 +1,12 @@
 {
     "name": "evilless63/transliterate",
     "description": "Transliteration package for laravel",
-    "version": "4.0.0",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/evilless63/Transliterate"
+        }
+    ],
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -21,11 +26,9 @@
       }
     },
     "require": {
-      "php": ">=7.2",
+      "php": ">=7.3",
       "ext-intl": "*",
-      "illuminate/support": "^8.0",
-      "illuminate/console": "^8.0",
-      "illuminate/cache": "^8.0"
+      "illuminate/support": "~8.0"
     },
     "require-dev": {
       "phpunit/phpunit": "^8.0",
