@@ -1,5 +1,5 @@
 {
-  "name": "elforastero/transliterate",
+  "name": "evilless63/transliterate",
   "description": "Transliteration package for laravel",
   "version": "4.0.0",
   "type": "library",
@@ -22,7 +22,7 @@
     }
   },
   "require": {
-    "php": ">=7.2",
+    "php": ">=7.4",
     "ext-intl": "*",
     "illuminate/support": "^6.0|^7.0|^8.0"
   },
