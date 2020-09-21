@@ -10,6 +10,7 @@
       "email": "elforastero@ya.ru"
     }
   ],
+  "minimum-stability": "beta",
   "autoload": {
     "psr-4": {
       "ElForastero\\Transliterate\\": "src/"
