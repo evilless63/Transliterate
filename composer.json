@@ -1,5 +1,6 @@
 {
     "name": "evilless63/transliterate",
+    "minimum-stability": "dev",
     "description": "Transliteration package for laravel",
     "repositories": [
         {
