@@ -5,7 +5,7 @@
     "description": "Transliteration package for laravel",
     "repositories": [
         {
-            "type": "vcs",
+            "type": "git",
             "url": "https://github.com/evilless63/Transliterate"
         }
     ],
